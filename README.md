@@ -1,6 +1,6 @@
 # Community App
 
-This is a React Native app build with [BuilderX](https://builderx.io/). It runs on both Android and iOS. It consists of Home, Popular, Notifications, Popular and Post screens. It has data integration for realtime data fetching and navigation too.
+This is a React Native app built with [BuilderX](https://builderx.io/). It runs on both Android and iOS. It consists of Home, Popular, Notifications, Popular and Post screens. It fetches real data from the Reddit api. It also has navigation implemented.
 
 > This app was created using [BuilderX](https://builderx.io/).
 
@@ -22,10 +22,10 @@ This will start the project.
 
 ## Building the app
 
-[![Watch the video](https://img.youtube.com/vi/qZNkrX872Kw/maxresdefault.jpg)](https://www.youtube.com/qZNkrX872Kw)
+[![Watch the video](https://img.youtube.com/vi/qZNkrX872Kw/maxresdefault.jpg)](https://youtu.be/qZNkrX872Kw)
 
 ## Customisation
 
 You can view and customise this design on [BuilderX](https://builderx.io/app/p98ci1j5npwowo4kggo88kkwcw04sc) and get the code instantly by cloning this template.
 
-**Note**: This app uses reddit [api](<[https://www.reddit.com/wiki/api](https://www.reddit.com/wiki/api)>) for data integration.
+> **Note**: This app uses Reddit [api](<[https://www.reddit.com/wiki/api](https://www.reddit.com/wiki/api)>) for data integration.
