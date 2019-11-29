@@ -1,24 +1,31 @@
-This project was created with [BuilderX](https://builderx.io/)
+# Community App
 
-## BuilderX uses third party libraries for some of the react-native components such as
+This is a React Native app build with [BuilderX](https://builderx.io/). It runs on both Android and iOS. It consists of Home, Popular, Notifications, Popular and Post screens. It has data integration for realtime data fetching and navigation too.
 
-```
-@builderx/utils@0.1.6
-@builderx/tab-view@0.1.5
-lodash
-react-navigation@1.2.1
-```
+> This app was created using [BuilderX](https://builderx.io/).
 
-These packages are included as dependencies in package.json file
+## Preview
 
-## Steps to run project
+![app-preview](./screenshots/community-app.gif)
+
+## Steps to run the project
 
 In the project directory, you can run:
 
 ### `yarn` or `npm install`
 
-This will add the dependencies required to run the project
+This will add the dependencies required to run the project.
 
 ### `yarn start` or `npm start`
 
-This will start the project
+This will start the project.
+
+## Building the app
+
+<iframe  width="100%"  height="530"  frame-border="0"  allowFullScreen  src="https://www.youtube.com/embed/qZNkrX872Kw"  />
+
+## Customisation
+
+You can view and customise this design on [BuilderX](https://builderx.io/app/p98ci1j5npwowo4kggo88kkwcw04sc) and get the code instantly by cloning this template.
+
+**Note**: This app uses reddit [api](<[https://www.reddit.com/wiki/api](https://www.reddit.com/wiki/api)>) for data integration.
