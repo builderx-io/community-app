@@ -6,7 +6,7 @@ This is a React Native app build with [BuilderX](https://builderx.io/). It runs 
 
 ## Preview
 
-![app-preview](./screenshots/community-app.gif)
+<img src="./screenshot/community-app.gif" width="250" height="500" />
 
 ## Steps to run the project
 
