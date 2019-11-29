@@ -22,7 +22,7 @@ This will start the project.
 
 ## Building the app
 
-<iframe  width="100%"  height="530"  frame-border="0"  allowFullScreen  src="https://www.youtube.com/embed/qZNkrX872Kw"  />
+[![Watch the video](https://img.youtube.com/vi/qZNkrX872Kw/maxresdefault.jpg)](https://www.youtube.com/qZNkrX872Kw)
 
 ## Customisation
 
